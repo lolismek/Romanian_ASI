@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+.env
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# Claude Code
+.claude/
+
+# Large data files (generated)
+data/merged_corpus.jsonl
+data/asi_candidates.jsonl
+data/fulg_asi_candidates.jsonl
+data/filmot_asi_candidates.jsonl
+
+# Checkpoint files (session-specific)
+data/*_checkpoint.json
+data/*.stats.json
+data/fulg_extraction_analysis.json
+
+# Transcripts cache
+data/transcripts/
+
+# Keep emotion_seed.json (curated lexicon)
+!data/emotion_seed.json
+
+# RoEmoLex source files (download separately)
+data/roemolex/*.csv
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Test output
+.pytest_cache/
+.coverage
+htmlcov/

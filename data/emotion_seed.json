@@ -1,0 +1,2680 @@
+{
+  "source": "manually_curated",
+  "word_to_emotions": {
+    "fericit": [
+      "joy"
+    ],
+    "fericită": [
+      "joy"
+    ],
+    "bucuros": [
+      "joy"
+    ],
+    "bucuroasă": [
+      "joy"
+    ],
+    "vesel": [
+      "joy"
+    ],
+    "veselă": [
+      "joy"
+    ],
+    "încântat": [
+      "anticipation",
+      "joy"
+    ],
+    "încântată": [
+      "anticipation",
+      "joy"
+    ],
+    "entuziasmat": [
+      "anticipation",
+      "joy"
+    ],
+    "entuziasmată": [
+      "anticipation",
+      "joy"
+    ],
+    "mulțumit": [
+      "joy"
+    ],
+    "mulțumită": [
+      "joy"
+    ],
+    "satisfăcut": [
+      "joy"
+    ],
+    "împlinit": [
+      "joy"
+    ],
+    "împlinită": [
+      "joy"
+    ],
+    "extaziat": [
+      "joy"
+    ],
+    "extaziată": [
+      "joy"
+    ],
+    "amuzat": [
+      "joy"
+    ],
+    "amuzată": [
+      "joy"
+    ],
+    "binedispus": [
+      "joy"
+    ],
+    "binedispusă": [
+      "joy"
+    ],
+    "radiind": [
+      "joy"
+    ],
+    "înviorat": [
+      "joy"
+    ],
+    "înviată": [
+      "joy"
+    ],
+    "voios": [
+      "joy"
+    ],
+    "voioasă": [
+      "joy"
+    ],
+    "jovial": [
+      "joy"
+    ],
+    "exuberant": [
+      "joy"
+    ],
+    "exuberantă": [
+      "joy"
+    ],
+    "euforic": [
+      "joy"
+    ],
+    "euforică": [
+      "joy"
+    ],
+    "optimist": [
+      "joy",
+      "anticipation"
+    ],
+    "optimistă": [
+      "joy",
+      "anticipation"
+    ],
+    "mândru": [
+      "joy"
+    ],
+    "mândră": [
+      "joy"
+    ],
+    "recunoscător": [
+      "joy",
+      "trust"
+    ],
+    "recunoscătoare": [
+      "joy",
+      "trust"
+    ],
+    "plin de viață": [
+      "joy"
+    ],
+    "trist": [
+      "sadness"
+    ],
+    "tristă": [
+      "sadness"
+    ],
+    "nefericit": [
+      "sadness"
+    ],
+    "nefericită": [
+      "sadness"
+    ],
+    "deprimat": [
+      "sadness"
+    ],
+    "deprimată": [
+      "sadness"
+    ],
+    "abătut": [
+      "sadness"
+    ],
+    "abătută": [
+      "sadness"
+    ],
+    "dezamăgit": [
+      "sadness"
+    ],
+    "dezamăgită": [
+      "sadness"
+    ],
+    "mâhnit": [
+      "sadness"
+    ],
+    "mâhnită": [
+      "sadness"
+    ],
+    "îndurerat": [
+      "sadness"
+    ],
+    "îndurerată": [
+      "sadness"
+    ],
+    "demoralizat": [
+      "sadness"
+    ],
+    "demoralizată": [
+      "sadness"
+    ],
+    "descurajat": [
+      "sadness"
+    ],
+    "descurajată": [
+      "sadness"
+    ],
+    "melancolic": [
+      "sadness"
+    ],
+    "melancolică": [
+      "sadness"
+    ],
+    "amărât": [
+      "sadness"
+    ],
+    "amărâtă": [
+      "sadness"
+    ],
+    "posomorât": [
+      "sadness"
+    ],
+    "posomorâtă": [
+      "sadness"
+    ],
+    "singur": [
+      "sadness"
+    ],
+    "singură": [
+      "sadness"
+    ],
+    "însingurat": [
+      "sadness"
+    ],
+    "însingurată": [
+      "sadness"
+    ],
+    "pustiu": [
+      "sadness"
+    ],
+    "gol": [
+      "sadness"
+    ],
+    "goală": [
+      "sadness"
+    ],
+    "neconsolat": [
+      "sadness"
+    ],
+    "neconsolată": [
+      "sadness"
+    ],
+    "disperat": [
+      "sadness",
+      "fear"
+    ],
+    "disperată": [
+      "sadness",
+      "fear"
+    ],
+    "pesimist": [
+      "sadness"
+    ],
+    "pesimistă": [
+      "sadness"
+    ],
+    "mohorât": [
+      "sadness"
+    ],
+    "mohorâtă": [
+      "sadness"
+    ],
+    "plictisit": [
+      "sadness"
+    ],
+    "plictisită": [
+      "sadness"
+    ],
+    "apatic": [
+      "sadness"
+    ],
+    "apatică": [
+      "sadness"
+    ],
+    "obosit": [
+      "sadness"
+    ],
+    "obosită": [
+      "sadness"
+    ],
+    "epuizat": [
+      "sadness"
+    ],
+    "epuizată": [
+      "sadness"
+    ],
+    "istovit": [
+      "sadness"
+    ],
+    "istovită": [
+      "sadness"
+    ],
+    "sleit": [
+      "sadness"
+    ],
+    "sleită": [
+      "sadness"
+    ],
+    "rănit": [
+      "sadness"
+    ],
+    "rănită": [
+      "sadness"
+    ],
+    "zdrobit": [
+      "sadness"
+    ],
+    "zdrobită": [
+      "sadness"
+    ],
+    "distrus": [
+      "sadness"
+    ],
+    "distrusă": [
+      "sadness"
+    ],
+    "devastat": [
+      "sadness"
+    ],
+    "devastată": [
+      "sadness"
+    ],
+    "nenorocit": [
+      "sadness"
+    ],
+    "nenorocită": [
+      "sadness"
+    ],
+    "năpăstuit": [
+      "sadness"
+    ],
+    "năpăstuită": [
+      "sadness"
+    ],
+    "speriat": [
+      "fear"
+    ],
+    "speriată": [
+      "fear"
+    ],
+    "înfricoșat": [
+      "fear"
+    ],
+    "înfricoșată": [
+      "fear"
+    ],
+    "îngrozit": [
+      "disgust",
+      "fear"
+    ],
+    "îngrozită": [
+      "disgust",
+      "fear"
+    ],
+    "îngrijorat": [
+      "fear"
+    ],
+    "îngrijorată": [
+      "fear"
+    ],
+    "anxios": [
+      "fear"
+    ],
+    "anxioasă": [
+      "fear"
+    ],
+    "neliniștit": [
+      "fear"
+    ],
+    "neliniștită": [
+      "fear"
+    ],
+    "agitat": [
+      "fear",
+      "anticipation"
+    ],
+    "agitată": [
+      "fear",
+      "anticipation"
+    ],
+    "panicat": [
+      "fear"
+    ],
+    "panicată": [
+      "fear"
+    ],
+    "alarmat": [
+      "fear"
+    ],
+    "alarmată": [
+      "fear"
+    ],
+    "temător": [
+      "fear"
+    ],
+    "temătoare": [
+      "fear"
+    ],
+    "fricos": [
+      "fear"
+    ],
+    "fricoasă": [
+      "fear"
+    ],
+    "nervos": [
+      "fear",
+      "anger"
+    ],
+    "nervoasă": [
+      "fear",
+      "anger"
+    ],
+    "stresat": [
+      "fear"
+    ],
+    "stresată": [
+      "fear"
+    ],
+    "tensionat": [
+      "fear"
+    ],
+    "tensionată": [
+      "fear"
+    ],
+    "încordat": [
+      "fear"
+    ],
+    "încordată": [
+      "fear"
+    ],
+    "nesigur": [
+      "fear"
+    ],
+    "nesigură": [
+      "fear"
+    ],
+    "confuz": [
+      "fear",
+      "surprise"
+    ],
+    "confuză": [
+      "fear",
+      "surprise"
+    ],
+    "dezorientat": [
+      "fear"
+    ],
+    "dezorientată": [
+      "fear"
+    ],
+    "tulburat": [
+      "fear"
+    ],
+    "tulburată": [
+      "fear"
+    ],
+    "perturbat": [
+      "fear"
+    ],
+    "perturbată": [
+      "fear"
+    ],
+    "înnebunit": [
+      "fear"
+    ],
+    "înnebunită": [
+      "fear"
+    ],
+    "paranoid": [
+      "fear"
+    ],
+    "paranoică": [
+      "fear"
+    ],
+    "suspicios": [
+      "fear"
+    ],
+    "suspicioasă": [
+      "fear"
+    ],
+    "precaut": [
+      "fear"
+    ],
+    "precaută": [
+      "fear"
+    ],
+    "circumspect": [
+      "fear"
+    ],
+    "circumspectă": [
+      "fear"
+    ],
+    "inhibat": [
+      "fear"
+    ],
+    "inhibată": [
+      "fear"
+    ],
+    "timid": [
+      "fear"
+    ],
+    "timidă": [
+      "fear"
+    ],
+    "sfios": [
+      "fear"
+    ],
+    "sfioasă": [
+      "fear"
+    ],
+    "intimidat": [
+      "fear"
+    ],
+    "intimidată": [
+      "fear"
+    ],
+    "terorizat": [
+      "fear"
+    ],
+    "terorizată": [
+      "fear"
+    ],
+    "traumatizat": [
+      "fear",
+      "sadness"
+    ],
+    "traumatizată": [
+      "fear",
+      "sadness"
+    ],
+    "furios": [
+      "anger"
+    ],
+    "furioasă": [
+      "anger"
+    ],
+    "supărat": [
+      "anger"
+    ],
+    "supărată": [
+      "anger"
+    ],
+    "enervat": [
+      "anger"
+    ],
+    "enervată": [
+      "anger"
+    ],
+    "iritat": [
+      "anger"
+    ],
+    "iritată": [
+      "anger"
+    ],
+    "înfuriat": [
+      "anger"
+    ],
+    "înfuriată": [
+      "anger"
+    ],
+    "mânios": [
+      "anger"
+    ],
+    "mânioasă": [
+      "anger"
+    ],
+    "indignat": [
+      "anger"
+    ],
+    "indignată": [
+      "anger"
+    ],
+    "revoltat": [
+      "anger"
+    ],
+    "revoltată": [
+      "anger"
+    ],
+    "exasperat": [
+      "anger"
+    ],
+    "exasperată": [
+      "anger"
+    ],
+    "frustrat": [
+      "anger"
+    ],
+    "frustrată": [
+      "anger"
+    ],
+    "agasat": [
+      "anger"
+    ],
+    "agasată": [
+      "anger"
+    ],
+    "nemulțumit": [
+      "anger",
+      "sadness"
+    ],
+    "nemulțumită": [
+      "anger",
+      "sadness"
+    ],
+    "dezgustat": [
+      "disgust"
+    ],
+    "dezgustată": [
+      "disgust"
+    ],
+    "scârbit": [
+      "disgust"
+    ],
+    "scârbită": [
+      "disgust"
+    ],
+    "ofensat": [
+      "anger"
+    ],
+    "ofensată": [
+      "anger"
+    ],
+    "jignit": [
+      "anger"
+    ],
+    "jignită": [
+      "anger"
+    ],
+    "ranchiunos": [
+      "anger"
+    ],
+    "ranchiunoasă": [
+      "anger"
+    ],
+    "ostil": [
+      "anger"
+    ],
+    "ostilă": [
+      "anger"
+    ],
+    "beligerant": [
+      "anger"
+    ],
+    "beligerantă": [
+      "anger"
+    ],
+    "agresiv": [
+      "anger"
+    ],
+    "agresivă": [
+      "anger"
+    ],
+    "violent": [
+      "anger"
+    ],
+    "violentă": [
+      "anger"
+    ],
+    "turbat": [
+      "anger"
+    ],
+    "turbată": [
+      "anger"
+    ],
+    "posac": [
+      "anger"
+    ],
+    "posacă": [
+      "anger"
+    ],
+    "ursuz": [
+      "anger"
+    ],
+    "ursuză": [
+      "anger"
+    ],
+    "morocănos": [
+      "anger"
+    ],
+    "morocănoasă": [
+      "anger"
+    ],
+    "bosumflat": [
+      "anger"
+    ],
+    "bosumflată": [
+      "anger"
+    ],
+    "arțăgos": [
+      "anger"
+    ],
+    "arțăgoasă": [
+      "anger"
+    ],
+    "certăreț": [
+      "anger"
+    ],
+    "certăreață": [
+      "anger"
+    ],
+    "gelos": [
+      "anger",
+      "sadness"
+    ],
+    "geloasă": [
+      "anger",
+      "sadness"
+    ],
+    "invidios": [
+      "anger",
+      "sadness"
+    ],
+    "invidioasă": [
+      "anger",
+      "sadness"
+    ],
+    "grețos": [
+      "disgust"
+    ],
+    "gretoasă": [
+      "disgust"
+    ],
+    "oripilat": [
+      "disgust"
+    ],
+    "oripilată": [
+      "disgust"
+    ],
+    "respins": [
+      "disgust"
+    ],
+    "respinsă": [
+      "disgust"
+    ],
+    "astomacat": [
+      "disgust"
+    ],
+    "astomacată": [
+      "disgust"
+    ],
+    "surprins": [
+      "surprise"
+    ],
+    "surprinsă": [
+      "surprise"
+    ],
+    "uimit": [
+      "surprise"
+    ],
+    "uimită": [
+      "surprise"
+    ],
+    "uluit": [
+      "surprise"
+    ],
+    "uluită": [
+      "surprise"
+    ],
+    "șocat": [
+      "surprise"
+    ],
+    "șocată": [
+      "surprise"
+    ],
+    "năucit": [
+      "surprise"
+    ],
+    "năucită": [
+      "surprise"
+    ],
+    "stupefiat": [
+      "surprise"
+    ],
+    "stupefiată": [
+      "surprise"
+    ],
+    "perplex": [
+      "surprise"
+    ],
+    "perplexă": [
+      "surprise"
+    ],
+    "buimăcit": [
+      "surprise"
+    ],
+    "buimăcită": [
+      "surprise"
+    ],
+    "amețit": [
+      "surprise"
+    ],
+    "amețită": [
+      "surprise"
+    ],
+    "zăpăcit": [
+      "surprise"
+    ],
+    "zăpăcită": [
+      "surprise"
+    ],
+    "consternat": [
+      "surprise"
+    ],
+    "consternată": [
+      "surprise"
+    ],
+    "descumpănit": [
+      "surprise"
+    ],
+    "descumpănită": [
+      "surprise"
+    ],
+    "nedumerit": [
+      "surprise"
+    ],
+    "nedumerită": [
+      "surprise"
+    ],
+    "contrariat": [
+      "surprise",
+      "anger"
+    ],
+    "contrariată": [
+      "surprise",
+      "anger"
+    ],
+    "mirat": [
+      "surprise"
+    ],
+    "mirată": [
+      "surprise"
+    ],
+    "fascinat": [
+      "surprise",
+      "joy"
+    ],
+    "fascinată": [
+      "surprise",
+      "joy"
+    ],
+    "captivat": [
+      "surprise",
+      "joy"
+    ],
+    "captivată": [
+      "surprise",
+      "joy"
+    ],
+    "impresionat": [
+      "surprise"
+    ],
+    "impresionată": [
+      "surprise"
+    ],
+    "copleșit": [
+      "surprise"
+    ],
+    "copleșită": [
+      "surprise"
+    ],
+    "încrezător": [
+      "trust"
+    ],
+    "încrezătoare": [
+      "trust"
+    ],
+    "sigur": [
+      "trust"
+    ],
+    "sigură": [
+      "trust"
+    ],
+    "confident": [
+      "trust"
+    ],
+    "confidentă": [
+      "trust"
+    ],
+    "liniștit": [
+      "trust"
+    ],
+    "liniștită": [
+      "trust"
+    ],
+    "calm": [
+      "trust"
+    ],
+    "calmă": [
+      "trust"
+    ],
+    "relaxat": [
+      "trust"
+    ],
+    "relaxată": [
+      "trust"
+    ],
+    "senin": [
+      "trust"
+    ],
+    "senină": [
+      "trust"
+    ],
+    "împăcat": [
+      "trust"
+    ],
+    "împăcată": [
+      "trust"
+    ],
+    "echilibrat": [
+      "trust"
+    ],
+    "echilibrată": [
+      "trust"
+    ],
+    "stabil": [
+      "trust"
+    ],
+    "stabilă": [
+      "trust"
+    ],
+    "în largul meu": [
+      "trust"
+    ],
+    "confortabil": [
+      "trust"
+    ],
+    "confortabilă": [
+      "trust"
+    ],
+    "protejat": [
+      "trust"
+    ],
+    "protejată": [
+      "trust"
+    ],
+    "în siguranță": [
+      "trust"
+    ],
+    "acceptat": [
+      "trust",
+      "joy"
+    ],
+    "acceptată": [
+      "trust",
+      "joy"
+    ],
+    "iubit": [
+      "trust",
+      "joy"
+    ],
+    "iubită": [
+      "trust",
+      "joy"
+    ],
+    "apreciat": [
+      "trust",
+      "joy"
+    ],
+    "apreciată": [
+      "trust",
+      "joy"
+    ],
+    "respectat": [
+      "trust"
+    ],
+    "respectată": [
+      "trust"
+    ],
+    "onorat": [
+      "trust",
+      "joy"
+    ],
+    "onorată": [
+      "trust",
+      "joy"
+    ],
+    "nerăbdător": [
+      "anticipation"
+    ],
+    "nerăbdătoare": [
+      "anticipation"
+    ],
+    "curios": [
+      "anticipation"
+    ],
+    "curioasă": [
+      "anticipation"
+    ],
+    "intrigat": [
+      "anticipation"
+    ],
+    "intrigată": [
+      "anticipation"
+    ],
+    "dornic": [
+      "anticipation"
+    ],
+    "dornică": [
+      "anticipation"
+    ],
+    "ațâțat": [
+      "anticipation"
+    ],
+    "ațâțată": [
+      "anticipation"
+    ],
+    "excitat": [
+      "anticipation",
+      "joy"
+    ],
+    "excitată": [
+      "anticipation",
+      "joy"
+    ],
+    "așteptând": [
+      "anticipation"
+    ],
+    "plin de speranță": [
+      "anticipation"
+    ],
+    "speranțos": [
+      "anticipation"
+    ],
+    "vinovat": [
+      "sadness",
+      "fear"
+    ],
+    "vinovată": [
+      "sadness",
+      "fear"
+    ],
+    "rușinat": [
+      "sadness",
+      "fear"
+    ],
+    "rușinată": [
+      "sadness",
+      "fear"
+    ],
+    "jenat": [
+      "sadness",
+      "fear"
+    ],
+    "jenată": [
+      "sadness",
+      "fear"
+    ],
+    "stânjenit": [
+      "sadness",
+      "fear"
+    ],
+    "stânjenită": [
+      "sadness",
+      "fear"
+    ],
+    "umilit": [
+      "sadness",
+      "anger"
+    ],
+    "umilită": [
+      "sadness",
+      "anger"
+    ],
+    "nostalgic": [
+      "sadness",
+      "joy"
+    ],
+    "nostalgică": [
+      "sadness",
+      "joy"
+    ],
+    "sentimental": [
+      "sadness",
+      "joy"
+    ],
+    "sentimentală": [
+      "sadness",
+      "joy"
+    ],
+    "emoționat": [
+      "joy",
+      "sadness"
+    ],
+    "emoționată": [
+      "joy",
+      "sadness"
+    ],
+    "mișcat": [
+      "joy",
+      "sadness"
+    ],
+    "mișcată": [
+      "joy",
+      "sadness"
+    ],
+    "înduioșat": [
+      "joy",
+      "sadness"
+    ],
+    "înduioșată": [
+      "joy",
+      "sadness"
+    ],
+    "sensibil": [
+      "sadness"
+    ],
+    "sensibilă": [
+      "sadness"
+    ],
+    "vulnerabil": [
+      "fear",
+      "sadness"
+    ],
+    "vulnerabilă": [
+      "fear",
+      "sadness"
+    ],
+    "fragil": [
+      "fear",
+      "sadness"
+    ],
+    "fragilă": [
+      "fear",
+      "sadness"
+    ],
+    "neajutorat": [
+      "fear",
+      "sadness"
+    ],
+    "neajutorată": [
+      "fear",
+      "sadness"
+    ],
+    "frică": [
+      "fear"
+    ],
+    "frica": [
+      "fear"
+    ],
+    "teamă": [
+      "fear"
+    ],
+    "teama": [
+      "fear"
+    ],
+    "groază": [
+      "fear"
+    ],
+    "groaza": [
+      "fear"
+    ],
+    "spaimă": [
+      "fear"
+    ],
+    "spaima": [
+      "fear"
+    ],
+    "panică": [
+      "fear"
+    ],
+    "panica": [
+      "fear"
+    ],
+    "anxietate": [
+      "fear"
+    ],
+    "neliniște": [
+      "fear"
+    ],
+    "neliniste": [
+      "fear"
+    ],
+    "îngrijorare": [
+      "fear"
+    ],
+    "ingrijorare": [
+      "fear"
+    ],
+    "teroare": [
+      "fear"
+    ],
+    "oroare": [
+      "fear",
+      "disgust"
+    ],
+    "tristețe": [
+      "sadness"
+    ],
+    "tristete": [
+      "sadness"
+    ],
+    "durere": [
+      "sadness"
+    ],
+    "suferință": [
+      "sadness"
+    ],
+    "suferinta": [
+      "sadness"
+    ],
+    "chin": [
+      "sadness"
+    ],
+    "amărăciune": [
+      "sadness"
+    ],
+    "amaraciune": [
+      "sadness"
+    ],
+    "mâhnire": [
+      "sadness"
+    ],
+    "mahnire": [
+      "sadness"
+    ],
+    "deznădejde": [
+      "sadness"
+    ],
+    "deznadejde": [
+      "sadness"
+    ],
+    "disperare": [
+      "sadness",
+      "fear"
+    ],
+    "melancolie": [
+      "sadness"
+    ],
+    "nostalgie": [
+      "sadness"
+    ],
+    "dor": [
+      "sadness",
+      "anticipation"
+    ],
+    "singurătate": [
+      "sadness"
+    ],
+    "singuratate": [
+      "sadness"
+    ],
+    "vid": [
+      "sadness"
+    ],
+    "depresie": [
+      "sadness"
+    ],
+    "apatie": [
+      "sadness"
+    ],
+    "plictiseală": [
+      "sadness"
+    ],
+    "plictiseala": [
+      "sadness"
+    ],
+    "oboseală": [
+      "sadness"
+    ],
+    "oboseala": [
+      "sadness"
+    ],
+    "epuizare": [
+      "sadness"
+    ],
+    "bucurie": [
+      "joy"
+    ],
+    "fericire": [
+      "joy"
+    ],
+    "plăcere": [
+      "joy"
+    ],
+    "placere": [
+      "joy"
+    ],
+    "satisfacție": [
+      "joy"
+    ],
+    "satisfactie": [
+      "joy"
+    ],
+    "mulțumire": [
+      "joy"
+    ],
+    "multumire": [
+      "joy"
+    ],
+    "entuziasm": [
+      "joy",
+      "anticipation"
+    ],
+    "veselie": [
+      "joy"
+    ],
+    "voie": [
+      "joy"
+    ],
+    "chef": [
+      "joy",
+      "anticipation"
+    ],
+    "extaz": [
+      "joy"
+    ],
+    "euforie": [
+      "joy"
+    ],
+    "încântare": [
+      "joy"
+    ],
+    "incantare": [
+      "joy"
+    ],
+    "deliciu": [
+      "joy"
+    ],
+    "beatitudine": [
+      "joy"
+    ],
+    "mândrie": [
+      "joy"
+    ],
+    "mandrie": [
+      "joy"
+    ],
+    "recunoștință": [
+      "joy",
+      "trust"
+    ],
+    "recunostinta": [
+      "joy",
+      "trust"
+    ],
+    "ușurare": [
+      "joy",
+      "trust"
+    ],
+    "usurare": [
+      "joy",
+      "trust"
+    ],
+    "furie": [
+      "anger"
+    ],
+    "mânie": [
+      "anger"
+    ],
+    "manie": [
+      "anger"
+    ],
+    "nervi": [
+      "anger"
+    ],
+    "iritare": [
+      "anger"
+    ],
+    "enervare": [
+      "anger"
+    ],
+    "exasperare": [
+      "anger"
+    ],
+    "frustrare": [
+      "anger"
+    ],
+    "indignare": [
+      "anger"
+    ],
+    "revoltă": [
+      "anger"
+    ],
+    "revolta": [
+      "anger"
+    ],
+    "ură": [
+      "anger",
+      "disgust"
+    ],
+    "ura": [
+      "anger",
+      "disgust"
+    ],
+    "ostilitate": [
+      "anger"
+    ],
+    "resentiment": [
+      "anger"
+    ],
+    "ranchiună": [
+      "anger"
+    ],
+    "ranchiuna": [
+      "anger"
+    ],
+    "ciudă": [
+      "anger"
+    ],
+    "ciuda": [
+      "anger"
+    ],
+    "pică": [
+      "anger"
+    ],
+    "pica": [
+      "anger"
+    ],
+    "gelozie": [
+      "anger",
+      "sadness"
+    ],
+    "invidie": [
+      "anger",
+      "sadness"
+    ],
+    "dezgust": [
+      "disgust"
+    ],
+    "scârbă": [
+      "disgust"
+    ],
+    "scarba": [
+      "disgust"
+    ],
+    "greață": [
+      "disgust"
+    ],
+    "greata": [
+      "disgust"
+    ],
+    "repulsie": [
+      "disgust"
+    ],
+    "aversiune": [
+      "disgust"
+    ],
+    "silă": [
+      "disgust"
+    ],
+    "sila": [
+      "disgust"
+    ],
+    "surpriză": [
+      "surprise"
+    ],
+    "surpriza": [
+      "surprise"
+    ],
+    "uimire": [
+      "surprise"
+    ],
+    "mirare": [
+      "surprise"
+    ],
+    "stupoare": [
+      "surprise"
+    ],
+    "perplexitate": [
+      "surprise"
+    ],
+    "șoc": [
+      "surprise"
+    ],
+    "soc": [
+      "surprise"
+    ],
+    "consternare": [
+      "surprise"
+    ],
+    "încredere": [
+      "trust"
+    ],
+    "incredere": [
+      "trust"
+    ],
+    "siguranță": [
+      "trust"
+    ],
+    "siguranta": [
+      "trust"
+    ],
+    "liniște": [
+      "trust"
+    ],
+    "liniste": [
+      "trust"
+    ],
+    "pace": [
+      "trust"
+    ],
+    "seninătate": [
+      "trust"
+    ],
+    "seninatate": [
+      "trust"
+    ],
+    "confort": [
+      "trust"
+    ],
+    "relaxare": [
+      "trust"
+    ],
+    "echilibru": [
+      "trust"
+    ],
+    "așteptare": [
+      "anticipation"
+    ],
+    "asteptare": [
+      "anticipation"
+    ],
+    "nerăbdare": [
+      "anticipation"
+    ],
+    "nerabdare": [
+      "anticipation"
+    ],
+    "speranță": [
+      "anticipation",
+      "joy"
+    ],
+    "speranta": [
+      "anticipation",
+      "joy"
+    ],
+    "curiozitate": [
+      "anticipation"
+    ],
+    "interes": [
+      "anticipation"
+    ],
+    "rușine": [
+      "sadness",
+      "fear"
+    ],
+    "rusine": [
+      "sadness",
+      "fear"
+    ],
+    "jenă": [
+      "sadness",
+      "fear"
+    ],
+    "jena": [
+      "sadness",
+      "fear"
+    ],
+    "vinovăție": [
+      "sadness",
+      "fear"
+    ],
+    "vinovatie": [
+      "sadness",
+      "fear"
+    ],
+    "vină": [
+      "sadness"
+    ],
+    "vina": [
+      "sadness"
+    ],
+    "remușcare": [
+      "sadness"
+    ],
+    "remuscare": [
+      "sadness"
+    ],
+    "regret": [
+      "sadness"
+    ],
+    "părere de rău": [
+      "sadness"
+    ],
+    "compasiune": [
+      "sadness",
+      "trust"
+    ],
+    "empatie": [
+      "sadness",
+      "trust"
+    ],
+    "milă": [
+      "sadness"
+    ],
+    "mila": [
+      "sadness"
+    ],
+    "iubire": [
+      "joy",
+      "trust"
+    ],
+    "dragoste": [
+      "joy",
+      "trust"
+    ],
+    "afecțiune": [
+      "joy",
+      "trust"
+    ],
+    "afectiune": [
+      "joy",
+      "trust"
+    ],
+    "bine": [
+      "joy",
+      "trust"
+    ],
+    "rău": [
+      "sadness",
+      "anger"
+    ],
+    "groaznic": [
+      "fear",
+      "sadness"
+    ],
+    "minunat": [
+      "joy"
+    ],
+    "oribil": [
+      "fear",
+      "disgust"
+    ],
+    "îngrozitor": [
+      "fear"
+    ],
+    "ingrozitor": [
+      "fear"
+    ],
+    "extraordinar": [
+      "joy",
+      "surprise"
+    ],
+    "teribil": [
+      "fear",
+      "sadness"
+    ],
+    "grozav": [
+      "joy"
+    ],
+    "excelent": [
+      "joy"
+    ],
+    "fantastic": [
+      "joy"
+    ],
+    "prost": [
+      "sadness",
+      "anger"
+    ],
+    "nasol": [
+      "sadness",
+      "anger"
+    ],
+    "aiurea": [
+      "surprise",
+      "anger"
+    ]
+  },
+  "all_words": [
+    "abătut",
+    "abătută",
+    "acceptat",
+    "acceptată",
+    "afectiune",
+    "afecțiune",
+    "agasat",
+    "agasată",
+    "agitat",
+    "agitată",
+    "agresiv",
+    "agresivă",
+    "aiurea",
+    "alarmat",
+    "alarmată",
+    "amaraciune",
+    "amețit",
+    "amețită",
+    "amuzat",
+    "amuzată",
+    "amărât",
+    "amărâtă",
+    "amărăciune",
+    "anxietate",
+    "anxioasă",
+    "anxios",
+    "apatic",
+    "apatică",
+    "apatie",
+    "apreciat",
+    "apreciată",
+    "arțăgoasă",
+    "arțăgos",
+    "asteptare",
+    "astomacat",
+    "astomacată",
+    "aversiune",
+    "așteptare",
+    "așteptând",
+    "ațâțat",
+    "ațâțată",
+    "beatitudine",
+    "beligerant",
+    "beligerantă",
+    "bine",
+    "binedispus",
+    "binedispusă",
+    "bosumflat",
+    "bosumflată",
+    "bucurie",
+    "bucuroasă",
+    "bucuros",
+    "buimăcit",
+    "buimăcită",
+    "calm",
+    "calmă",
+    "captivat",
+    "captivată",
+    "certăreață",
+    "certăreț",
+    "chef",
+    "chin",
+    "circumspect",
+    "circumspectă",
+    "ciuda",
+    "ciudă",
+    "compasiune",
+    "confident",
+    "confidentă",
+    "confort",
+    "confortabil",
+    "confortabilă",
+    "confuz",
+    "confuză",
+    "consternare",
+    "consternat",
+    "consternată",
+    "contrariat",
+    "contrariată",
+    "copleșit",
+    "copleșită",
+    "curioasă",
+    "curios",
+    "curiozitate",
+    "deliciu",
+    "demoralizat",
+    "demoralizată",
+    "depresie",
+    "deprimat",
+    "deprimată",
+    "descumpănit",
+    "descumpănită",
+    "descurajat",
+    "descurajată",
+    "devastat",
+    "devastată",
+    "dezamăgit",
+    "dezamăgită",
+    "dezgust",
+    "dezgustat",
+    "dezgustată",
+    "deznadejde",
+    "deznădejde",
+    "dezorientat",
+    "dezorientată",
+    "disperare",
+    "disperat",
+    "disperată",
+    "distrus",
+    "distrusă",
+    "dor",
+    "dornic",
+    "dornică",
+    "dragoste",
+    "durere",
+    "echilibrat",
+    "echilibrată",
+    "echilibru",
+    "emoționat",
+    "emoționată",
+    "empatie",
+    "enervare",
+    "enervat",
+    "enervată",
+    "entuziasm",
+    "entuziasmat",
+    "entuziasmată",
+    "epuizare",
+    "epuizat",
+    "epuizată",
+    "euforic",
+    "euforică",
+    "euforie",
+    "exasperare",
+    "exasperat",
+    "exasperată",
+    "excelent",
+    "excitat",
+    "excitată",
+    "extaz",
+    "extaziat",
+    "extaziată",
+    "extraordinar",
+    "exuberant",
+    "exuberantă",
+    "fantastic",
+    "fascinat",
+    "fascinată",
+    "fericire",
+    "fericit",
+    "fericită",
+    "fragil",
+    "fragilă",
+    "frica",
+    "fricoasă",
+    "fricos",
+    "frică",
+    "frustrare",
+    "frustrat",
+    "frustrată",
+    "furie",
+    "furioasă",
+    "furios",
+    "geloasă",
+    "gelos",
+    "gelozie",
+    "goală",
+    "gol",
+    "greata",
+    "greață",
+    "gretoasă",
+    "grețos",
+    "groaza",
+    "groaznic",
+    "groază",
+    "grozav",
+    "impresionat",
+    "impresionată",
+    "incantare",
+    "incredere",
+    "indignare",
+    "indignat",
+    "indignată",
+    "ingrijorare",
+    "ingrozitor",
+    "inhibat",
+    "inhibată",
+    "interes",
+    "intimidat",
+    "intimidată",
+    "intrigat",
+    "intrigată",
+    "invidie",
+    "invidioasă",
+    "invidios",
+    "iritare",
+    "iritat",
+    "iritată",
+    "istovit",
+    "istovită",
+    "iubire",
+    "iubit",
+    "iubită",
+    "jena",
+    "jenat",
+    "jenată",
+    "jenă",
+    "jignit",
+    "jignită",
+    "jovial",
+    "liniste",
+    "liniște",
+    "liniștit",
+    "liniștită",
+    "mahnire",
+    "mandrie",
+    "manie",
+    "melancolic",
+    "melancolică",
+    "melancolie",
+    "mila",
+    "milă",
+    "minunat",
+    "mirare",
+    "mirat",
+    "mirată",
+    "mișcat",
+    "mișcată",
+    "mohorât",
+    "mohorâtă",
+    "morocănoasă",
+    "morocănos",
+    "multumire",
+    "mulțumire",
+    "mulțumit",
+    "mulțumită",
+    "mâhnire",
+    "mâhnit",
+    "mâhnită",
+    "mândrie",
+    "mândru",
+    "mândră",
+    "mânie",
+    "mânioasă",
+    "mânios",
+    "nasol",
+    "neajutorat",
+    "neajutorată",
+    "neconsolat",
+    "neconsolată",
+    "nedumerit",
+    "nedumerită",
+    "nefericit",
+    "nefericită",
+    "neliniste",
+    "neliniște",
+    "neliniștit",
+    "neliniștită",
+    "nemulțumit",
+    "nemulțumită",
+    "nenorocit",
+    "nenorocită",
+    "nerabdare",
+    "nervi",
+    "nervoasă",
+    "nervos",
+    "nerăbdare",
+    "nerăbdătoare",
+    "nerăbdător",
+    "nesigur",
+    "nesigură",
+    "nostalgic",
+    "nostalgică",
+    "nostalgie",
+    "năpăstuit",
+    "năpăstuită",
+    "năucit",
+    "năucită",
+    "oboseala",
+    "oboseală",
+    "obosit",
+    "obosită",
+    "ofensat",
+    "ofensată",
+    "onorat",
+    "onorată",
+    "optimist",
+    "optimistă",
+    "oribil",
+    "oripilat",
+    "oripilată",
+    "oroare",
+    "ostil",
+    "ostilitate",
+    "ostilă",
+    "pace",
+    "panica",
+    "panicat",
+    "panicată",
+    "panică",
+    "paranoică",
+    "paranoid",
+    "perplex",
+    "perplexitate",
+    "perplexă",
+    "perturbat",
+    "perturbată",
+    "pesimist",
+    "pesimistă",
+    "pica",
+    "pică",
+    "placere",
+    "plictiseala",
+    "plictiseală",
+    "plictisit",
+    "plictisită",
+    "plin de speranță",
+    "plin de viață",
+    "plăcere",
+    "posac",
+    "posacă",
+    "posomorât",
+    "posomorâtă",
+    "precaut",
+    "precaută",
+    "prost",
+    "protejat",
+    "protejată",
+    "pustiu",
+    "părere de rău",
+    "radiind",
+    "ranchiuna",
+    "ranchiunoasă",
+    "ranchiunos",
+    "ranchiună",
+    "recunoscătoare",
+    "recunoscător",
+    "recunostinta",
+    "recunoștință",
+    "regret",
+    "relaxare",
+    "relaxat",
+    "relaxată",
+    "remuscare",
+    "remușcare",
+    "repulsie",
+    "resentiment",
+    "respectat",
+    "respectată",
+    "respins",
+    "respinsă",
+    "revolta",
+    "revoltat",
+    "revoltată",
+    "revoltă",
+    "rusine",
+    "rușinat",
+    "rușinată",
+    "rușine",
+    "rănit",
+    "rănită",
+    "rău",
+    "satisfactie",
+    "satisfacție",
+    "satisfăcut",
+    "scarba",
+    "scârbit",
+    "scârbită",
+    "scârbă",
+    "senin",
+    "seninatate",
+    "senină",
+    "seninătate",
+    "sensibil",
+    "sensibilă",
+    "sentimental",
+    "sentimentală",
+    "sfioasă",
+    "sfios",
+    "sigur",
+    "siguranta",
+    "siguranță",
+    "sigură",
+    "sila",
+    "silă",
+    "singur",
+    "singuratate",
+    "singură",
+    "singurătate",
+    "sleit",
+    "sleită",
+    "soc",
+    "spaima",
+    "spaimă",
+    "speranta",
+    "speranțos",
+    "speranță",
+    "speriat",
+    "speriată",
+    "stabil",
+    "stabilă",
+    "stresat",
+    "stresată",
+    "stupefiat",
+    "stupefiată",
+    "stupoare",
+    "stânjenit",
+    "stânjenită",
+    "suferinta",
+    "suferință",
+    "supărat",
+    "supărată",
+    "surprins",
+    "surprinsă",
+    "surpriza",
+    "surpriză",
+    "suspicioasă",
+    "suspicios",
+    "teama",
+    "teamă",
+    "temătoare",
+    "temător",
+    "tensionat",
+    "tensionată",
+    "teribil",
+    "teroare",
+    "terorizat",
+    "terorizată",
+    "timid",
+    "timidă",
+    "traumatizat",
+    "traumatizată",
+    "trist",
+    "tristete",
+    "tristețe",
+    "tristă",
+    "tulburat",
+    "tulburată",
+    "turbat",
+    "turbată",
+    "uimire",
+    "uimit",
+    "uimită",
+    "uluit",
+    "uluită",
+    "umilit",
+    "umilită",
+    "ura",
+    "ursuz",
+    "ursuză",
+    "ură",
+    "usurare",
+    "ușurare",
+    "vesel",
+    "veselie",
+    "veselă",
+    "vid",
+    "vina",
+    "vinovat",
+    "vinovatie",
+    "vinovată",
+    "vinovăție",
+    "vină",
+    "violent",
+    "violentă",
+    "voie",
+    "voioasă",
+    "voios",
+    "vulnerabil",
+    "vulnerabilă",
+    "zdrobit",
+    "zdrobită",
+    "zăpăcit",
+    "zăpăcită",
+    "împlinit",
+    "împlinită",
+    "împăcat",
+    "împăcată",
+    "în largul meu",
+    "în siguranță",
+    "încordat",
+    "încordată",
+    "încredere",
+    "încrezătoare",
+    "încrezător",
+    "încântare",
+    "încântat",
+    "încântată",
+    "înduioșat",
+    "înduioșată",
+    "îndurerat",
+    "îndurerată",
+    "înfricoșat",
+    "înfricoșată",
+    "înfuriat",
+    "înfuriată",
+    "îngrijorare",
+    "îngrijorat",
+    "îngrijorată",
+    "îngrozit",
+    "îngrozitor",
+    "îngrozită",
+    "înnebunit",
+    "înnebunită",
+    "însingurat",
+    "însingurată",
+    "înviată",
+    "înviorat",
+    "șoc",
+    "șocat",
+    "șocată"
+  ],
+  "statistics": {
+    "total_adjectives": 348,
+    "total_nouns": 150,
+    "total_adverbs": 15,
+    "total_words": 511
+  },
+  "adjectives": [
+    "fericit",
+    "fericită",
+    "bucuros",
+    "bucuroasă",
+    "vesel",
+    "veselă",
+    "încântat",
+    "încântată",
+    "entuziasmat",
+    "entuziasmată",
+    "mulțumit",
+    "mulțumită",
+    "satisfăcut",
+    "împlinit",
+    "împlinită",
+    "extaziat",
+    "extaziată",
+    "amuzat",
+    "amuzată",
+    "binedispus",
+    "binedispusă",
+    "radiind",
+    "înviorat",
+    "înviată",
+    "voios",
+    "voioasă",
+    "jovial",
+    "exuberant",
+    "exuberantă",
+    "euforic",
+    "euforică",
+    "optimist",
+    "optimistă",
+    "mândru",
+    "mândră",
+    "recunoscător",
+    "recunoscătoare",
+    "plin de viață",
+    "trist",
+    "tristă",
+    "nefericit",
+    "nefericită",
+    "deprimat",
+    "deprimată",
+    "abătut",
+    "abătută",
+    "dezamăgit",
+    "dezamăgită",
+    "mâhnit",
+    "mâhnită",
+    "îndurerat",
+    "îndurerată",
+    "demoralizat",
+    "demoralizată",
+    "descurajat",
+    "descurajată",
+    "melancolic",
+    "melancolică",
+    "amărât",
+    "amărâtă",
+    "posomorât",
+    "posomorâtă",
+    "singur",
+    "singură",
+    "însingurat",
+    "însingurată",
+    "pustiu",
+    "gol",
+    "goală",
+    "neconsolat",
+    "neconsolată",
+    "disperat",
+    "disperată",
+    "pesimist",
+    "pesimistă",
+    "mohorât",
+    "mohorâtă",
+    "plictisit",
+    "plictisită",
+    "apatic",
+    "apatică",
+    "obosit",
+    "obosită",
+    "epuizat",
+    "epuizată",
+    "istovit",
+    "istovită",
+    "sleit",
+    "sleită",
+    "rănit",
+    "rănită",
+    "zdrobit",
+    "zdrobită",
+    "distrus",
+    "distrusă",
+    "devastat",
+    "devastată",
+    "nenorocit",
+    "nenorocită",
+    "năpăstuit",
+    "năpăstuită",
+    "speriat",
+    "speriată",
+    "înfricoșat",
+    "înfricoșată",
+    "îngrozit",
+    "îngrozită",
+    "îngrijorat",
+    "îngrijorată",
+    "anxios",
+    "anxioasă",
+    "neliniștit",
+    "neliniștită",
+    "agitat",
+    "agitată",
+    "panicat",
+    "panicată",
+    "alarmat",
+    "alarmată",
+    "temător",
+    "temătoare",
+    "fricos",
+    "fricoasă",
+    "nervos",
+    "nervoasă",
+    "stresat",
+    "stresată",
+    "tensionat",
+    "tensionată",
+    "încordat",
+    "încordată",
+    "nesigur",
+    "nesigură",
+    "confuz",
+    "confuză",
+    "dezorientat",
+    "dezorientată",
+    "tulburat",
+    "tulburată",
+    "perturbat",
+    "perturbată",
+    "înnebunit",
+    "înnebunită",
+    "paranoid",
+    "paranoică",
+    "suspicios",
+    "suspicioasă",
+    "precaut",
+    "precaută",
+    "circumspect",
+    "circumspectă",
+    "inhibat",
+    "inhibată",
+    "timid",
+    "timidă",
+    "sfios",
+    "sfioasă",
+    "intimidat",
+    "intimidată",
+    "terorizat",
+    "terorizată",
+    "traumatizat",
+    "traumatizată",
+    "furios",
+    "furioasă",
+    "supărat",
+    "supărată",
+    "enervat",
+    "enervată",
+    "iritat",
+    "iritată",
+    "înfuriat",
+    "înfuriată",
+    "mânios",
+    "mânioasă",
+    "indignat",
+    "indignată",
+    "revoltat",
+    "revoltată",
+    "exasperat",
+    "exasperată",
+    "frustrat",
+    "frustrată",
+    "agasat",
+    "agasată",
+    "nemulțumit",
+    "nemulțumită",
+    "dezgustat",
+    "dezgustată",
+    "scârbit",
+    "scârbită",
+    "ofensat",
+    "ofensată",
+    "jignit",
+    "jignită",
+    "ranchiunos",
+    "ranchiunoasă",
+    "ostil",
+    "ostilă",
+    "beligerant",
+    "beligerantă",
+    "agresiv",
+    "agresivă",
+    "violent",
+    "violentă",
+    "turbat",
+    "turbată",
+    "posac",
+    "posacă",
+    "ursuz",
+    "ursuză",
+    "morocănos",
+    "morocănoasă",
+    "bosumflat",
+    "bosumflată",
+    "arțăgos",
+    "arțăgoasă",
+    "certăreț",
+    "certăreață",
+    "gelos",
+    "geloasă",
+    "invidios",
+    "invidioasă",
+    "grețos",
+    "gretoasă",
+    "oripilat",
+    "oripilată",
+    "respins",
+    "respinsă",
+    "astomacat",
+    "astomacată",
+    "surprins",
+    "surprinsă",
+    "uimit",
+    "uimită",
+    "uluit",
+    "uluită",
+    "șocat",
+    "șocată",
+    "năucit",
+    "năucită",
+    "stupefiat",
+    "stupefiată",
+    "perplex",
+    "perplexă",
+    "buimăcit",
+    "buimăcită",
+    "amețit",
+    "amețită",
+    "zăpăcit",
+    "zăpăcită",
+    "consternat",
+    "consternată",
+    "descumpănit",
+    "descumpănită",
+    "nedumerit",
+    "nedumerită",
+    "contrariat",
+    "contrariată",
+    "mirat",
+    "mirată",
+    "fascinat",
+    "fascinată",
+    "captivat",
+    "captivată",
+    "impresionat",
+    "impresionată",
+    "copleșit",
+    "copleșită",
+    "încrezător",
+    "încrezătoare",
+    "sigur",
+    "sigură",
+    "confident",
+    "confidentă",
+    "liniștit",
+    "liniștită",
+    "calm",
+    "calmă",
+    "relaxat",
+    "relaxată",
+    "senin",
+    "senină",
+    "împăcat",
+    "împăcată",
+    "echilibrat",
+    "echilibrată",
+    "stabil",
+    "stabilă",
+    "în largul meu",
+    "confortabil",
+    "confortabilă",
+    "protejat",
+    "protejată",
+    "în siguranță",
+    "acceptat",
+    "acceptată",
+    "iubit",
+    "iubită",
+    "apreciat",
+    "apreciată",
+    "respectat",
+    "respectată",
+    "onorat",
+    "onorată",
+    "nerăbdător",
+    "nerăbdătoare",
+    "curios",
+    "curioasă",
+    "intrigat",
+    "intrigată",
+    "dornic",
+    "dornică",
+    "ațâțat",
+    "ațâțată",
+    "excitat",
+    "excitată",
+    "așteptând",
+    "plin de speranță",
+    "speranțos",
+    "vinovat",
+    "vinovată",
+    "rușinat",
+    "rușinată",
+    "jenat",
+    "jenată",
+    "stânjenit",
+    "stânjenită",
+    "umilit",
+    "umilită",
+    "nostalgic",
+    "nostalgică",
+    "sentimental",
+    "sentimentală",
+    "emoționat",
+    "emoționată",
+    "mișcat",
+    "mișcată",
+    "înduioșat",
+    "înduioșată",
+    "sensibil",
+    "sensibilă",
+    "vulnerabil",
+    "vulnerabilă",
+    "fragil",
+    "fragilă",
+    "neajutorat",
+    "neajutorată"
+  ],
+  "nouns": [
+    "frică",
+    "frica",
+    "teamă",
+    "teama",
+    "groază",
+    "groaza",
+    "spaimă",
+    "spaima",
+    "panică",
+    "panica",
+    "anxietate",
+    "neliniște",
+    "neliniste",
+    "îngrijorare",
+    "ingrijorare",
+    "teroare",
+    "oroare",
+    "tristețe",
+    "tristete",
+    "durere",
+    "suferință",
+    "suferinta",
+    "chin",
+    "amărăciune",
+    "amaraciune",
+    "mâhnire",
+    "mahnire",
+    "deznădejde",
+    "deznadejde",
+    "disperare",
+    "melancolie",
+    "nostalgie",
+    "dor",
+    "singurătate",
+    "singuratate",
+    "gol",
+    "vid",
+    "depresie",
+    "apatie",
+    "plictiseală",
+    "plictiseala",
+    "oboseală",
+    "oboseala",
+    "epuizare",
+    "bucurie",
+    "fericire",
+    "plăcere",
+    "placere",
+    "satisfacție",
+    "satisfactie",
+    "mulțumire",
+    "multumire",
+    "entuziasm",
+    "veselie",
+    "voie",
+    "chef",
+    "extaz",
+    "euforie",
+    "încântare",
+    "incantare",
+    "deliciu",
+    "beatitudine",
+    "mândrie",
+    "mandrie",
+    "recunoștință",
+    "recunostinta",
+    "ușurare",
+    "usurare",
+    "furie",
+    "mânie",
+    "manie",
+    "nervi",
+    "iritare",
+    "enervare",
+    "exasperare",
+    "frustrare",
+    "indignare",
+    "revoltă",
+    "revolta",
+    "ură",
+    "ura",
+    "ostilitate",
+    "resentiment",
+    "ranchiună",
+    "ranchiuna",
+    "ciudă",
+    "ciuda",
+    "pică",
+    "pica",
+    "gelozie",
+    "invidie",
+    "dezgust",
+    "scârbă",
+    "scarba",
+    "greață",
+    "greata",
+    "repulsie",
+    "aversiune",
+    "silă",
+    "sila",
+    "surpriză",
+    "surpriza",
+    "uimire",
+    "mirare",
+    "stupoare",
+    "perplexitate",
+    "șoc",
+    "soc",
+    "consternare",
+    "încredere",
+    "incredere",
+    "siguranță",
+    "siguranta",
+    "liniște",
+    "liniste",
+    "pace",
+    "calm",
+    "seninătate",
+    "seninatate",
+    "confort",
+    "relaxare",
+    "echilibru",
+    "așteptare",
+    "asteptare",
+    "nerăbdare",
+    "nerabdare",
+    "speranță",
+    "speranta",
+    "curiozitate",
+    "interes",
+    "rușine",
+    "rusine",
+    "jenă",
+    "jena",
+    "vinovăție",
+    "vinovatie",
+    "vină",
+    "vina",
+    "remușcare",
+    "remuscare",
+    "regret",
+    "părere de rău",
+    "compasiune",
+    "empatie",
+    "milă",
+    "mila",
+    "iubire",
+    "dragoste",
+    "afecțiune",
+    "afectiune"
+  ],
+  "adverbs": [
+    "bine",
+    "rău",
+    "groaznic",
+    "minunat",
+    "oribil",
+    "îngrozitor",
+    "ingrozitor",
+    "extraordinar",
+    "teribil",
+    "grozav",
+    "excelent",
+    "fantastic",
+    "prost",
+    "nasol",
+    "aiurea"
+  ]
+}
